@@ -91,8 +91,7 @@ interests:
 ### Quick Facts
 
 - **61** unit tests passing
-- **719** motor starters in database
-- **4489** PLC IO entries managed
+
 - **GPL-3.0** open source
 
 </td>
@@ -130,7 +129,7 @@ interests:
 <img src="https://img.shields.io/badge/🔧-Motors-DD2C00?style=for-the-badge" alt="motors"/>
 <br/><br/>
 <b>Motor Starters</b><br/>
-<sub>719 entries · CRUD · Search</sub>
+<sub>CRUD · Search</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
@@ -138,7 +137,7 @@ interests:
 <img src="https://img.shields.io/badge/⚙️-PLC-0071C5?style=for-the-badge" alt="plc"/>
 <br/><br/>
 <b>PLC IO Modules</b><br/>
-<sub>4489 entries · Dedicated DB</sub>
+<sub>Dedicated DB</sub>
 <br/><br/>
 </td>
 <td align="center" width="25%">
