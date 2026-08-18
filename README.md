@@ -33,30 +33,15 @@
 
 <div align="center">
 
-```kotlin
-// android/src/main/java/Developer.kt
-
-data class Developer(
-    val name:     String,
-    val location: String,
-    val role:     String,
-    val os:       String,
-    val editor:   String,
-    val focus:    String,
-    val lang:     String,
-    val hobby:    String,
-)
-
-val HCMDZ = Developer(
-    name     = "HcmDZ",
-    location = "Algeria 🇩🇿",
-    role     = "Android Developer",
-    os       = "Linux",
-    editor   = "Android Studio",
-    focus    = "Electrical Engineering Apps",
-    lang     = "Kotlin",
-    hobby    = "Building ElecPilot",
-)
+```yaml
+name: HcmDZ
+location: Algeria 🇩🇿
+role: Android Developer
+os: Linux
+editor: Android Studio
+focus: Electrical Engineering Apps
+lang: Kotlin
+hobby: Building ElecPilot
 ```
 
 </div>
