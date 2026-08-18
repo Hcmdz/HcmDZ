@@ -4,11 +4,6 @@
 
 <div align="center">
 
-<!-- Capsule Render Header - Professional Green/Teal Theme -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00D117&height=220&section=header&text=HcmDZ&fontSize=72&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%7C%20Kotlin%20%26%20Compose%20%7C%20Electrical%20Engineering&descSize=18&descColor=00D117&descAlignY=55&animation=fadeIn" width="100%"/>
-
-<br/>
-
 <!-- Professional Typing SVG - Green theme -->
 <a href="https://github.com/HcmDZ">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Professional+Electrical+Engineering+Tools;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
@@ -311,8 +306,5 @@ fun main() {
 <img src="https://komarev.com/ghpvc/?username=HcmDZ&style=for-the-badge&color=00D117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00D117&height=120&section=footer" width="100%"/>
 
 </div>
