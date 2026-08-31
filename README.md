@@ -9,6 +9,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Professional+Electrical+Engineering+Tools;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
+<br/>
+
+**Android Developer — Kotlin · Jetpack Compose · Material 3 · Security Hardening**
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
+[![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
+[![TargetSDK](https://img.shields.io/badge/TargetSDK-36-blue.svg)](#)
+
 </div>
 
 <br/>
@@ -36,7 +46,7 @@
 ```yaml
 name: HcmDZ
 location: Algeria 🇩🇿
-role: Android Developer
+role: Android Developer — Kotlin · Compose · Material 3 · Security
 os: Linux
 editor: Android Studio
 focus: Electrical Engineering Apps
@@ -90,7 +100,7 @@ interests:
 
 ### Quick Facts
 
-- **61** unit tests passing
+- **69** unit tests passing
 
 - **GPL-3.0** open source
 
@@ -152,6 +162,23 @@ interests:
 </table>
 
 </div>
+
+### ⚡ ElecPilot — Key Features
+
+Professional Android app for managing electrical motor starters and PLC I/O modules in industrial environments.
+
+| Feature | Description |
+|---|---|
+| 🔧 **Motor Starters** | Full CRUD, search, batch edit, statistics |
+| ⚙️ **PLC I/O Modules** | Dedicated database and views |
+| ☁️ **Cloud Backup** | Google Drive & OneDrive via rclone (AES-256-GCM encrypted) |
+| 📄 **Excel/CSV** | Import/export, blank template generation, scheduled backups |
+| 🎨 **Material You** | Dynamic color, edge-to-edge, light & dark themes |
+| 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
+| 🎙️ **Voice Search** | Speak to filter motor starters |
+| 🔒 **Security** | FLAG_SECURE, encrypted rclone config, WebView allowlist, ProGuard log stripping |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/ElecPilot)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%">
 
@@ -240,9 +267,9 @@ Git/GitHub      █████████████████████�
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
