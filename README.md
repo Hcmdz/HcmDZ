@@ -11,9 +11,10 @@
 
 <br/>
 
-**Android Developer — Kotlin · Jetpack Compose · Material 3 · Security Hardening**
+**Android Developer — building industrial electrical engineering apps in Kotlin & Jetpack Compose**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/ElecPilot/ci.yml?label=ElecPilot%20CI&color=00D117)](https://github.com/Hcmdz/ElecPilot/actions/workflows/ci.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
 [![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
@@ -38,83 +39,12 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       TERMINAL INTRO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```yaml
-name: HcmDZ
-location: Algeria 🇩🇿
-role: Android Developer — Kotlin · Compose · Material 3 · Security
-os: Linux
-editor: Android Studio
-focus: Electrical Engineering Apps
-lang: Kotlin
-hobby: Building ElecPilot
-```
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separator" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-
-<table>
-<tr>
-<td width="55%">
-
-```yaml
-name: HcmDZ
-location: Algeria 🇩🇿
-role: Android Developer
-current_project: ElecPilot (Electrical Engineering App)
-os: Linux
-editor: Android Studio
-languages:
-  - Kotlin (primary)
-  - Java
-  - Python
-interests:
-  - Android Development
-  - Material Design 3
-  - Security Hardening
-  - Electrical Engineering
-  - Open Source
-```
-
-</td>
-<td width="45%">
-
-### What I Do
-
-- **Android Developer** — Building professional apps with Kotlin & Jetpack Compose
-- **Electrical Engineering Tools** — Motor starters, PLC IO management, cloud backup
-- **Security Hardened** — FLAG_SECURE, encrypted storage, network security
-- **Multilingual Apps** — EN/FR/AR localization with RTL support
-- **Always Learning** — Material 3, Compose, Android security
-
-### Quick Facts
-
-- **69** unit tests passing
-
-- **GPL-3.0** open source
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                       FLAGSHIP PROJECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## Flagship Project
+## 🚀 Flagship Project — ElecPilot
+
+Professional Android app for managing electrical motor starters and PLC I/O modules in industrial environments.
 
 <div align="center">
 
@@ -163,9 +93,7 @@ interests:
 
 </div>
 
-### ⚡ ElecPilot — Key Features
-
-Professional Android app for managing electrical motor starters and PLC I/O modules in industrial environments.
+### ⚡ Key Features
 
 | Feature | Description |
 |---|---|
@@ -179,6 +107,57 @@ Professional Android app for managing electrical motor starters and PLC I/O modu
 | 🔒 **Security** | FLAG_SECURE, encrypted rclone config, WebView allowlist, ProGuard log stripping |
 
 [![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/ElecPilot)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         ABOUT ME                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+name: HcmDZ
+location: Algeria 🇩🇿
+role: Android Developer
+current_project: ElecPilot (Electrical Engineering App)
+os: Linux
+editor: Android Studio
+languages:
+  - Kotlin (primary)
+  - Java
+  - Python
+interests:
+  - Android Development
+  - Material Design 3
+  - Security Hardening
+  - Electrical Engineering
+  - Open Source
+```
+
+</td>
+<td width="45%">
+
+### What I Do
+
+- **Android Developer** — Building professional apps with Kotlin & Jetpack Compose
+- **Electrical Engineering Tools** — Motor starters, PLC IO management, cloud backup
+- **Security Hardened** — FLAG_SECURE, encrypted storage, network security
+- **Multilingual Apps** — EN/FR/AR localization with RTL support
+- **Always Learning** — Material 3, Compose, Android security
+
+### Quick Facts
+
+- **69** unit tests passing
+- **GPL-3.0** open source
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%">
 
@@ -210,18 +189,6 @@ Professional Android app for managing electrical motor starters and PLC I/O modu
 </tr>
 </table>
 
-<br/>
-
-<!-- Expertise Level Bars -->
-```text
-Kotlin          ████████████████████░░░░░   80% ██ Primary Language
-Jetpack Compose ███████████████████░░░░░░   76% ██ UI Framework
-Android SDK     ████████████████████░░░░░   80% ██ Platform
-Material 3      ██████████████████░░░░░░░   72% ██ Design System
-Room Database   ████████████████░░░░░░░░░   64% ██ Persistence
-Git/GitHub      ████████████████████████░  100% ██ Version Control
-```
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
@@ -234,25 +201,7 @@ Git/GitHub      █████████████████████�
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=HcmDZ&show_icons=true&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HcmDZ&theme=github-dark-blue&border=00D117&stroke=00D117&ring=00D117&fire=00D117&currStreakLabel=00D117&sideLabels=00D117&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&background=0d1117" alt="Streak Stats" width="100%"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HcmDZ&layout=compact&theme=github_dark&border_color=00D117&title_color=00D117&text_color=c9d1d9&bg_color=0d1117&langs_count=10&hide_border=false" alt="Top Languages" width="45%"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HcmDZ&theme=github-dark&color=00D117&line=00D117&point=ffffff&area_color=00D117&area=true&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="95%"/>
 
 </div>
 
@@ -286,6 +235,10 @@ Git/GitHub      █████████████████████�
 
 <a href="https://github.com/HcmDZ">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="mailto:HcmDz.Dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-HcmDz.Dev-00D117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
