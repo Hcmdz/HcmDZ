@@ -237,6 +237,10 @@ interests:
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
+<a href="https://hcmdz.github.io/">
+<img src="https://img.shields.io/badge/Website-hcmdz.github.io-00D117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
+</a>
+
 <a href="mailto:HcmDz.Dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-HcmDz.Dev-00D117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
