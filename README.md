@@ -49,7 +49,7 @@
 <!--                       FLAGSHIP PROJECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Flagship Project — ElecPilot
+## 🚀 My Project — ElecPilot
 
 Professional Android app for managing electrical motor starters and PLC I/O modules in industrial environments.
 
