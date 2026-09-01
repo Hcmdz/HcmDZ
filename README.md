@@ -282,4 +282,7 @@ fun main() {
 
 <br/><br/>
 
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00a836,100:00D117&height=120&section=footer" width="100%"/>
+
 </div>
