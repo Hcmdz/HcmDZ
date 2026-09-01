@@ -4,6 +4,13 @@
 
 <div align="center">
 
+<!-- Header capsule waving - Green theme -->
+<a href="https://github.com/HcmDZ">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00a836,100:00D117&height=180&section=header&text=HcmDZ&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descSize=16&descColor=ffffff&descAlignY=48&animation=fadeIn" width="100%"/>
+</a>
+
+<br/>
+
 <!-- Professional Typing SVG - Green theme -->
 <a href="https://github.com/HcmDZ">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Professional+Electrical+Engineering+Tools;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
