@@ -155,6 +155,7 @@ interests:
 - **Electrical Engineering Tools** — Motor starters, PLC IO management, cloud backup
 - **Security Hardened** — FLAG_SECURE, encrypted storage, network security
 - **Multilingual Apps** — EN/FR/AR localization with RTL support
+- **Tooled Up** — automated backups, CI-guarded workflow
 - **Always Learning** — Material 3, Compose, Android security
 
 ### Quick Facts
