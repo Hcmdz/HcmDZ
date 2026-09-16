@@ -46,12 +46,17 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       FLAGSHIP PROJECT                                -->
+<!--                           MY PROJECTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 My Project — ElecPilot
+## 🚀 My Projects
 
-Professional Android app for managing electrical motor starters and PLC I/O modules in industrial environments.
+### ElecPilot
+
+Professional Android app (v6.5) for managing electrical motor starters and PLC I/O modules in industrial environments.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <div align="center">
 
@@ -60,43 +65,6 @@ Professional Android app for managing electrical motor starters and PLC I/O modu
 </a>
 
 <br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/📱-ElecPilot-00D117?style=for-the-badge" alt="app"/>
-<br/><br/>
-<b>Android App</b><br/>
-<sub>Kotlin · Compose · Material3</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/🔧-Motors-DD2C00?style=for-the-badge" alt="motors"/>
-<br/><br/>
-<b>Motor Starters</b><br/>
-<sub>CRUD · Search</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/⚙️-PLC-0071C5?style=for-the-badge" alt="plc"/>
-<br/><br/>
-<b>PLC IO Modules</b><br/>
-<sub>Dedicated DB</sub>
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<img src="https://img.shields.io/badge/☁️-Cloud-8957E5?style=for-the-badge" alt="cloud"/>
-<br/><br/>
-<b>Cloud Backup</b><br/>
-<sub>Google Drive · OneDrive</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -117,7 +85,7 @@ Professional Android app for managing electrical motor starters and PLC I/O modu
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
-## 📡 OpenCode Free Radar
+### OpenCode Free Radar
 
 Native Android app that tracks AI models free to use with OpenCode — usable-free statuses, price history, freebie alerts, in-app updates.
 
