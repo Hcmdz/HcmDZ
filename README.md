@@ -117,6 +117,33 @@ Professional Android app for managing electrical motor starters and PLC I/O modu
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
+## 📡 OpenCode Free Radar
+
+Native Android app that tracks AI models free to use with OpenCode — usable-free statuses, price history, freebie alerts, in-app updates.
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/OpenCode-Free-Radar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=OpenCode-Free-Radar&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="OpenCode Free Radar"/>
+</a>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 📡 **Catalog Sync** | Daily sync from models.dev, OpenRouter, OpenCode Zen roster |
+| 💸 **Usable-Free Statuses** | FREE / LIMITED / TRIAL / TEMPORARY, paid and expired filtered out |
+| 🔔 **Freebie Alerts** | Background sync with notifications on new free offers |
+| 🔄 **In-App Updates** | Release check via GitHub, SHA-256 verified download |
+| 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/OpenCode-Free-Radar)
+[![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
