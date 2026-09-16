@@ -13,7 +13,7 @@
 
 <!-- Professional Typing SVG - Green theme -->
 <a href="https://github.com/HcmDZ">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Professional+Electrical+Engineering+Tools;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,6 +22,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/ElecPilot/ci.yml?label=ElecPilot%20CI&color=00D117)](https://github.com/Hcmdz/ElecPilot/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/OpenCode-Free-Radar/ci.yml?label=Radar%20CI&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/actions/workflows/ci.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
 [![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
@@ -126,7 +127,7 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 name: HcmDZ
 location: Algeria 🇩🇿
 role: Android Developer
-current_project: ElecPilot (Electrical Engineering App)
+current_project: ElecPilot + OpenCode Free Radar
 os: Linux
 editor: Android Studio
 languages:
