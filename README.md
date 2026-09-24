@@ -23,6 +23,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/ElecPilot/ci.yml?label=ElecPilot%20CI&color=00D117)](https://github.com/Hcmdz/ElecPilot/actions/workflows/ci.yml)
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/OpenCode-Free-Radar/ci.yml?label=Radar%20CI&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/Privnum/ci.yml?label=Privnum%20CI&color=00D117)](https://github.com/Hcmdz/Privnum/actions/workflows/ci.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
 [![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
@@ -54,7 +55,7 @@
 
 ### ElecPilot
 
-Professional Android app (v6.5) for managing electrical motor starters and PLC I/O modules in industrial environments.
+Professional Android app (v6.5.1) for managing electrical motor starters and PLC I/O modules in industrial environments.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -113,6 +114,38 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
+### Privnum
+
+Private on-device caller ID for Android (v1.1.0) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/Privnum">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=Privnum&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="Privnum"/>
+</a>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 📞 **Private Caller ID** | Call popup with name, photo and notes from the on-device database |
+| 🔢 **Multiple Numbers** | Several numbers per contact, primary flag, duplicate protection |
+| 💾 **VCF Backup** | Import, export and share with photos — nothing leaves the device |
+| 🔍 **FTS Search** | Instant prefix search across names, notes and every digit |
+| 🔒 **Lockdown** | Passcode with 5-attempt lockout, biometric unlock, auto-lock |
+| 🎨 **Material You** | Dynamic color, AMOLED black, light / dark / system themes |
+| 📵 **Offline by Design** | Zero network permissions, no accounts, no analytics |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/Privnum)
+[![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -127,7 +160,7 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 name: HcmDZ
 location: Algeria 🇩🇿
 role: Android Developer
-current_project: ElecPilot + OpenCode Free Radar
+current_project: ElecPilot + OpenCode Free Radar + Privnum
 os: Linux
 editor: Android Studio
 languages:
