@@ -55,7 +55,7 @@
 
 ### ElecPilot
 
-Professional Android app (v6.5.1) for managing electrical motor starters and PLC I/O modules in industrial environments.
+Professional Android app (v6.5.2) for managing electrical motor starters and PLC I/O modules in industrial environments.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -89,7 +89,7 @@ Professional Android app (v6.5.1) for managing electrical motor starters and PLC
 
 ### OpenCode Free Radar
 
-Native Android app that tracks AI models free to use with OpenCode — usable-free statuses, price history, freebie alerts, in-app updates.
+Native Android app that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 | 📡 **Catalog Sync** | Daily sync from models.dev, OpenRouter, OpenCode Zen roster |
 | 💸 **Usable-Free Statuses** | FREE / LIMITED / TRIAL / TEMPORARY, paid and expired filtered out |
 | 🔔 **Freebie Alerts** | Background sync with notifications on new free offers |
-| 🔄 **In-App Updates** | Release check via GitHub, SHA-256 verified download |
+| 🔄 **In-App Updates** | Release check via GitHub, allowlisted HTTPS download, digest checked when the release publishes one |
 | 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
 
 [![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/OpenCode-Free-Radar)
@@ -116,7 +116,7 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 
 ### Privnum
 
-Private on-device caller ID for Android (v1.1.0) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
+Private on-device caller ID for Android (v1.3.1) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -189,7 +189,7 @@ interests:
 
 ### Quick Facts
 
-- **69** unit tests passing
+- **469** test methods across the three apps
 - **GPL-3.0** open source
 
 </td>
