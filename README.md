@@ -89,13 +89,18 @@ Professional Android app (v6.5.2) for managing electrical motor starters and PLC
 
 ### OpenCode Free Radar
 
-Native Android app that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
+Native Android app (v0.5.0) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <div align="center">
 
 <a href="https://github.com/Hcmdz/OpenCode-Free-Radar">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=OpenCode-Free-Radar&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="OpenCode Free Radar"/>
 </a>
+
+<br/><br/>
 
 </div>
 
@@ -107,10 +112,12 @@ Native Android app that tracks AI models free to use with OpenCode — usable-fr
 | 💸 **Usable-Free Statuses** | FREE / LIMITED / TRIAL / TEMPORARY, paid and expired filtered out |
 | 🔔 **Freebie Alerts** | Background sync with notifications on new free offers |
 | 🔄 **In-App Updates** | Release check via GitHub, allowlisted HTTPS download, digest checked when the release publishes one |
+| 💾 **Offline-First** | Room database, home screen shows sync age and free-offer count |
+| 🎛️ **Compatibility Flags** | Tool calling, vision and reasoning support flagged per model |
+| 🎨 **Material You** | Dynamic color with dark and high-contrast themes |
 | 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
 
 [![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/OpenCode-Free-Radar)
-[![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
@@ -127,6 +134,8 @@ Private on-device caller ID for Android (v1.3.1) — unknown callers identified 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=Privnum&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="Privnum"/>
 </a>
 
+<br/><br/>
+
 </div>
 
 ### ⚡ Key Features
@@ -139,10 +148,10 @@ Private on-device caller ID for Android (v1.3.1) — unknown callers identified 
 | 🔍 **FTS Search** | Instant prefix search across names, notes and every digit |
 | 🔒 **Lockdown** | Passcode with 5-attempt lockout, biometric unlock, auto-lock |
 | 🎨 **Material You** | Dynamic color, AMOLED black, light / dark / system themes |
+| 🌍 **Multilingual** | 11 languages plus system, RTL layout, locale-aware labels and dates |
 | 📵 **Offline by Design** | Zero network permissions, no accounts, no analytics |
 
 [![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/Privnum)
-[![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
