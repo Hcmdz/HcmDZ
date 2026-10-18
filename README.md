@@ -5,14 +5,14 @@
 <div align="center">
 
 <!-- Header capsule waving - Green theme -->
-<a href="https://github.com/HcmDZ">
+<a href="https://github.com/Hcmdz">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00a836,100:00D117&height=180&section=header&text=HcmDZ&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descSize=16&descColor=ffffff&descAlignY=48&animation=fadeIn" width="100%"/>
 </a>
 
 <br/>
 
 <!-- Professional Typing SVG - Green theme -->
-<a href="https://github.com/HcmDZ">
+<a href="https://github.com/Hcmdz">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
@@ -62,8 +62,8 @@ Professional Android app (v6.5.3) for managing electrical motor starters and PLC
 
 <div align="center">
 
-<a href="https://github.com/HcmDZ/ElecPilot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HcmDZ&repo=ElecPilot&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="ElecPilot"/>
+<a href="https://github.com/Hcmdz/ElecPilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=ElecPilot&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="ElecPilot"/>
 </a>
 
 <br/><br/>
@@ -246,7 +246,7 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HcmDZ&show_icons=true&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hcmdz&show_icons=true&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats" width="100%"/>
 
 </div>
 
@@ -261,9 +261,9 @@ interests:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/HcmDZ/HcmDZ/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ### OR
@@ -282,7 +282,7 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/HcmDZ">
+<a href="https://github.com/Hcmdz">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -320,7 +320,7 @@ fun main() {
 <br/>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=HcmDZ&style=for-the-badge&color=00D117&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Hcmdz&style=for-the-badge&color=00D117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
