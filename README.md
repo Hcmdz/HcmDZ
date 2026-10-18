@@ -55,7 +55,7 @@
 
 ### ElecPilot
 
-Professional Android app (v6.5.2) for managing electrical motor starters and PLC I/O modules in industrial environments.
+Professional Android app (v6.5.3) for managing electrical motor starters and PLC I/O modules in industrial environments.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -76,12 +76,11 @@ Professional Android app (v6.5.2) for managing electrical motor starters and PLC
 |---|---|
 | 🔧 **Motor Starters** | Full CRUD, search, batch edit, statistics |
 | ⚙️ **PLC I/O Modules** | Dedicated database and views |
-| ☁️ **Cloud Backup** | Google Drive & OneDrive via rclone (AES-256-GCM encrypted) |
 | 📄 **Excel/CSV** | Import/export, blank template generation, scheduled backups |
 | 🎨 **Material You** | Dynamic color, edge-to-edge, light & dark themes |
 | 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
 | 🎙️ **Voice Search** | Speak to filter motor starters |
-| 🔒 **Security** | FLAG_SECURE, encrypted rclone config, WebView allowlist, ProGuard log stripping |
+| 🔒 **Security** | FLAG_SECURE, network security config, ProGuard log stripping |
 
 [![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/ElecPilot)
 
@@ -190,7 +189,7 @@ interests:
 ### What I Do
 
 - **Android Developer** — Building professional apps with Kotlin & Jetpack Compose
-- **Electrical Engineering Tools** — Motor starters, PLC IO management, cloud backup
+- **Electrical Engineering Tools** — Motor starters, PLC IO management, Excel/CSV export
 - **Security Hardened** — FLAG_SECURE, encrypted storage, network security
 - **Multilingual Apps** — EN/FR/AR localization with RTL support
 - **Tooled Up** — automated backups, CI-guarded workflow
@@ -198,7 +197,7 @@ interests:
 
 ### Quick Facts
 
-- **469** test methods across the three apps
+- **468** test methods across the three apps
 - **GPL-3.0** open source
 
 </td>
