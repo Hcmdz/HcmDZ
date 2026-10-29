@@ -13,7 +13,7 @@
 
 <!-- Professional Typing SVG - Green theme -->
 <a href="https://github.com/Hcmdz">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar+%2B+Coil+Testing;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,6 +24,7 @@
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/ElecPilot/ci.yml?label=ElecPilot%20CI&color=00D117)](https://github.com/Hcmdz/ElecPilot/actions/workflows/ci.yml)
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/OpenCode-Free-Radar/ci.yml?label=Radar%20CI&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/actions/workflows/ci.yml)
 [![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/Privnum/ci.yml?label=Privnum%20CI&color=00D117)](https://github.com/Hcmdz/Privnum/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/Coil-Tester/ci.yml?label=Coil-Tester%20CI&color=00D117)](https://github.com/Hcmdz/Coil-Tester/actions/workflows/ci.yml)
 [![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
 [![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
@@ -55,7 +56,7 @@
 
 ### ElecPilot
 
-Professional Android app (v6.5.3) for managing electrical motor starters and PLC I/O modules in industrial environments.
+Professional Android app (v6.5.4) for managing electrical motor starters and PLC I/O modules in industrial environments.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -88,7 +89,7 @@ Professional Android app (v6.5.3) for managing electrical motor starters and PLC
 
 ### OpenCode Free Radar
 
-Native Android app (v0.5.0) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
+Native Android app (v0.5.1) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -122,7 +123,7 @@ Native Android app (v0.5.0) that tracks AI models free to use with OpenCode — 
 
 ### Privnum
 
-Private on-device caller ID for Android (v1.3.1) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
+Private on-device caller ID for Android (v1.3.2) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -154,6 +155,40 @@ Private on-device caller ID for Android (v1.3.1) — unknown callers identified 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
 
+### Coil-Tester
+
+Open-source Android app (v1.0.0) that turns your phone's magnetometer into a calibrated solenoid coil-testing instrument — real-time AC/DC field detection with haptic and audio feedback. Clean-room rewrite of the original Danfoss Magnetic Tool. 100% offline.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/Coil-Tester?label=Release&color=00D117)](https://github.com/Hcmdz/Coil-Tester/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/Coil-Tester">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=Coil-Tester&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="Coil-Tester"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 🧲 **AC/DC Detection** | Real-time magnetic field detection via the device magnetometer |
+| 🎚️ **Sensitivity** | Low / Medium / High presets, plus custom AC/DC thresholds |
+| 📏 **Distance Guide** | 10 cm target to position the sensor over the coil |
+| 🔊 **Feedback** | Haptic and audio alerts at detection, adjustable volume |
+| 🎯 **Calibration** | Stored offset/scale with reset, 50/60 Hz mains band |
+| 🎨 **Material You** | Light, dark, AMOLED black and system themes |
+| 🌍 **Multilingual** | FR (default) / EN / AR with full RTL support |
+| 📵 **Offline by Design** | No INTERNET permission, no accounts, no tracking |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/Coil-Tester)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         ABOUT ME                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -168,7 +203,7 @@ Private on-device caller ID for Android (v1.3.1) — unknown callers identified 
 name: HcmDZ
 location: Algeria 🇩🇿
 role: Android Developer
-current_project: ElecPilot + OpenCode Free Radar + Privnum
+current_project: ElecPilot + OpenCode Free Radar + Privnum + Coil-Tester
 os: Linux
 editor: Android Studio
 languages:
@@ -197,7 +232,7 @@ interests:
 
 ### Quick Facts
 
-- **468** test methods across the three apps
+- **518** test methods across the four apps
 - **GPL-3.0** open source
 
 </td>
