@@ -1,1 +1,358 @@
-test
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                         HEADER SECTION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<!-- Header capsule waving - Green theme -->
+<a href="https://github.com/Hcmdz">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00a836,100:00D117&height=180&section=header&text=HcmDZ&fontSize=52&fontColor=ffffff&fontAlignY=32&desc=Android%20Developer%20%7C%20Kotlin%20%7C%20Jetpack%20Compose&descSize=16&descColor=ffffff&descAlignY=48&animation=fadeIn" width="100%"/>
+</a>
+
+<br/>
+
+<!-- Professional Typing SVG - Green theme -->
+<a href="https://github.com/Hcmdz">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar+%2B+Coil+Testing;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+</a>
+
+<br/>
+
+**Android Developer — building industrial electrical engineering apps in Kotlin & Jetpack Compose**
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/ElecPilot/ci.yml?label=ElecPilot%20CI&color=00D117)](https://github.com/Hcmdz/ElecPilot/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/OpenCode-Free-Radar/ci.yml?label=Radar%20CI&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/Privnum/ci.yml?label=Privnum%20CI&color=00D117)](https://github.com/Hcmdz/Privnum/actions/workflows/ci.yml)
+[![CI](https://img.shields.io/github/actions/workflow/status/Hcmdz/Coil-Tester/ci.yml?label=Coil-Tester%20CI&color=00D117)](https://github.com/Hcmdz/Coil-Tester/actions/workflows/ci.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/Hcmdz/ElecPilot?label=ElecPilot%20last%20commit&color=00D117)](https://github.com/Hcmdz/ElecPilot)
+[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg?logo=kotlin)](https://kotlinlang.org)
+[![MinSDK](https://img.shields.io/badge/MinSDK-29-orange.svg)](#)
+[![TargetSDK](https://img.shields.io/badge/TargetSDK-37-blue.svg)](#)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                    LOFI CODING GIF                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXl3dDBzNno3eXV0MTFmZjVnZWJieWl5M3NzdXpmZHk4MmJudW9mMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif" width="700" alt="Lofi Coding"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           MY PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 My Projects
+
+### ElecPilot
+
+Professional Android app (v6.5.4) for managing electrical motor starters and PLC I/O modules in industrial environments.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/ElecPilot?label=Release&color=00D117)](https://github.com/Hcmdz/ElecPilot/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/ElecPilot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=ElecPilot&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="ElecPilot"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 🔧 **Motor Starters** | Full CRUD, search, batch edit, statistics |
+| ⚙️ **PLC I/O Modules** | Dedicated database and views |
+| 📄 **Excel/CSV** | Import/export, blank template generation, scheduled backups |
+| 🎨 **Material You** | Dynamic color, edge-to-edge, light & dark themes |
+| 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
+| 🎙️ **Voice Search** | Speak to filter motor starters |
+| 🔒 **Security** | FLAG_SECURE, network security config, ProGuard log stripping |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/ElecPilot)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
+### OpenCode Free Radar
+
+Native Android app (v0.5.1) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/OpenCode-Free-Radar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=OpenCode-Free-Radar&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="OpenCode Free Radar"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 📡 **Catalog Sync** | Daily sync from models.dev, OpenRouter, OpenCode Zen roster |
+| 💸 **Usable-Free Statuses** | FREE / LIMITED / TRIAL / TEMPORARY, paid and expired filtered out |
+| 🔔 **Freebie Alerts** | Background sync with notifications on new free offers |
+| 🔄 **In-App Updates** | Release check via GitHub, allowlisted HTTPS download, digest checked when the release publishes one |
+| 💾 **Offline-First** | Room database, home screen shows sync age and free-offer count |
+| 🎛️ **Compatibility Flags** | Tool calling, vision and reasoning support flagged per model |
+| 🎨 **Material You** | Dynamic color with dark and high-contrast themes |
+| 🌍 **Multilingual** | EN / FR / AR localization with RTL support |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/OpenCode-Free-Radar)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
+### Privnum
+
+Private on-device caller ID for Android (v1.3.2) — unknown callers identified from a local database that never leaves your phone. Zero network permissions.
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/Privnum?label=Release&color=00D117)](https://github.com/Hcmdz/Privnum/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/Privnum">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=Privnum&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="Privnum"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 📞 **Private Caller ID** | Call popup with name, photo and notes from the on-device database |
+| 🔢 **Multiple Numbers** | Several numbers per contact, primary flag, duplicate protection |
+| 💾 **VCF Backup** | Import, export and share with photos — nothing leaves the device |
+| 🔍 **FTS Search** | Instant prefix search across names, notes and every digit |
+| 🔒 **Lockdown** | Passcode with 5-attempt lockout, biometric unlock, auto-lock |
+| 🎨 **Material You** | Dynamic color, AMOLED black, light / dark / system themes |
+| 🌍 **Multilingual** | 11 languages plus system, RTL layout, locale-aware labels and dates |
+| 📵 **Offline by Design** | Zero network permissions, no accounts, no analytics |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/Privnum)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
+### Coil-Tester
+
+Open-source Android app (v1.0.0) that turns your phone's magnetometer into a calibrated solenoid coil-testing instrument -- real-time AC/DC field detection with haptic and audio feedback. Clean-room rewrite of the original Danfoss Magnetic Tool. 100% offline. **[GitHub](https://github.com/Hcmdz/Coil-Tester)**
+
+[![Release](https://img.shields.io/github/v/release/Hcmdz/Coil-Tester?label=Release&color=00D117)](https://github.com/Hcmdz/Coil-Tester/releases)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz/Coil-Tester">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hcmdz&repo=Coil-Tester&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117" alt="Coil-Tester"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+### ⚡ Key Features
+
+| Feature | Description |
+|---|---|
+| 🧲 **AC/DC Detection** | Real-time magnetic field detection via the device magnetometer |
+| 🎚️ **Sensitivity** | Low / Medium / High presets, plus custom AC/DC thresholds |
+| 📏 **Distance Guide** | 10 cm target to position the sensor over the coil |
+| 🔊 **Feedback** | Haptic and audio alerts at detection, adjustable volume |
+| 🎯 **Why It Exists** | Testing solenoid coils in the field usually means carrying dedicated equipment. CoilTester puts a calibrated AC/DC magnetic-field detector in your pocket -- real-time readings, instant haptic and audio feedback, and a guided distance target -- so you can verify coil operation anywhere, fully offline. |
+| 🎨 **Material You** | Light, dark, AMOLED black and system themes |
+| 🌍 **Multilingual** | FR (default) / EN / AR with full RTL support |
+| 📵 **Offline by Design** | No INTERNET permission, no accounts, no tracking |
+
+[![Repository](https://img.shields.io/badge/View_on-GitHub-00D117?style=for-the-badge&logo=github)](https://github.com/Hcmdz/Coil-Tester)
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+
+<table>
+<tr>
+<td width="55%">
+
+```yaml
+name: HcmDZ
+location: Algeria 🇩🇿
+role: Android Developer
+current_project: ElecPilot + OpenCode Free Radar + Privnum + Coil-Tester
+os: Linux
+editor: Android Studio
+languages:
+  - Kotlin (primary)
+  - Java
+  - Python
+interests:
+  - Android Development
+  - Material Design 3
+  - Security Hardening
+  - Electrical Engineering
+  - Open Source
+```
+
+</td>
+<td width="45%">
+
+### What I Do
+
+- **Android Developer** — Building professional apps with Kotlin & Jetpack Compose
+- **Electrical Engineering Tools** — Motor starters, PLC IO management, Excel/CSV export
+- **Security Hardened** — FLAG_SECURE, encrypted storage, network security
+- **Multilingual Apps** — EN/FR/AR localization with RTL support
+- **Tooled Up** — automated backups, CI-guarded workflow
+- **Always Learning** — Material 3, Compose, Android security
+
+### Quick Facts
+
+- **518** test methods across the four apps
+- **GPL-3.0** open source
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## Tech Stack
+
+<div align="center">
+
+<!-- Primary Stack -->
+<table>
+<tr>
+<td align="center"><b>Mobile</b></td>
+<td align="center"><b>Backend & Data</b></td>
+<td align="center"><b>Tools & Platforms</b></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,android,compose,gradle&perline=4" alt="mobile"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java,python,firebase,sqlite&perline=4" alt="backend"/>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio&perline=4" alt="tools"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB STATS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hcmdz&show_icons=true&theme=github_dark&border_color=00D117&title_color=00D117&icon_color=00D117&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" alt="GitHub Stats" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                      CONTRIBUTION SNAKE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Hcmdz/HcmDZ/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+### OR
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Hcmdz&stats=true&credit=true" alt="3D Contributions" width="100%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                        CONNECT                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Hcmdz">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://hcmdz.github.io/">
+<img src="https://img.shields.io/badge/Website-hcmdz.github.io-00D117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:HcmDz.Dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-HcmDz.Dev-00D117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" alt="separator" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                           FOOTER                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+```kotlin
+fun main() {
+    loop {
+        code()
+        learn()
+        build()
+        ship()
+    }
+}
+```
+
+<br/>
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Hcmdz&style=for-the-badge&color=00D117&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00a836,100:00D117&height=120&section=footer" width="100%"/>
+
+</div>
