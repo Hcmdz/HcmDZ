@@ -89,10 +89,10 @@ Professional Android app (v6.5.4) for managing electrical motor starters and PLC
 
 ### OpenCode Free Radar
 
-Native Android app (v0.5.1) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates.
+Native Android app (v0.5.2) that tracks AI models free to use with OpenCode — usable-free statuses, change history, freebie alerts, in-app updates. Archived — personal use only, kept as a reference.
 
 [![Release](https://img.shields.io/github/v/release/Hcmdz/OpenCode-Free-Radar?label=Release&color=00D117)](https://github.com/Hcmdz/OpenCode-Free-Radar/releases)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: Personal Use](https://img.shields.io/badge/License-Personal_Use-blue.svg)](https://github.com/Hcmdz/OpenCode-Free-Radar/blob/main/LICENSE)
 
 <div align="center">
 
