@@ -13,7 +13,7 @@
 
 <!-- Professional Typing SVG - Green theme -->
 <a href="https://github.com/Hcmdz">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Free+AI+Model+Radar+%2B+Coil+Testing;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D117&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=45&lines=Building+Android+Apps+with+Kotlin+%26+Compose;Electrical+Tools+%2B+Coil+Testing;Clean+Code+%7C+Material+3+%7C+Security;Always+Learning+%7C+Always+Shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -190,7 +190,7 @@ interests:
 
 ### Quick Facts
 
-- **518** test methods across the four apps
+- **518** test methods across the three apps
 - **GPL-3.0** open source
 
 </td>
