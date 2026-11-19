@@ -190,7 +190,7 @@ interests:
 
 ### Quick Facts
 
-- **518** test methods across the three apps
+- **85** test methods across the three apps
 - **GPL-3.0** open source
 
 </td>
